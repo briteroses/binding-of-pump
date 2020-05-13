@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lwjgl-ovr">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/java_game_lib/lwjgl-3.1.1/lwjgl-ovr/lwjgl-ovr-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java_game_lib/lwjgl-3.1.1/lwjgl-ovr/lwjgl-ovr.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java_game_lib/lwjgl-3.1.1/lwjgl-ovr/lwjgl-ovr-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java_game_lib/lwjgl-3.1.1/lwjgl-ovr/lwjgl-ovr-natives-windows.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

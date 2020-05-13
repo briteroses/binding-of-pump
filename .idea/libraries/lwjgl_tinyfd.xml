@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lwjgl-tinyfd">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/java_game_lib/lwjgl-3.1.1/lwjgl-tinyfd/lwjgl-tinyfd-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java_game_lib/lwjgl-3.1.1/lwjgl-tinyfd/lwjgl-tinyfd-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java_game_lib/lwjgl-3.1.1/lwjgl-tinyfd/lwjgl-tinyfd-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java_game_lib/lwjgl-3.1.1/lwjgl-tinyfd/lwjgl-tinyfd-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java_game_lib/lwjgl-3.1.1/lwjgl-tinyfd/lwjgl-tinyfd-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java_game_lib/lwjgl-3.1.1/lwjgl-tinyfd/lwjgl-tinyfd.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

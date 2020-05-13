@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lwjgl-lmdb">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/java_game_lib/lwjgl-3.1.1/lwjgl-lmdb/lwjgl-lmdb-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java_game_lib/lwjgl-3.1.1/lwjgl-lmdb/lwjgl-lmdb-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java_game_lib/lwjgl-3.1.1/lwjgl-lmdb/lwjgl-lmdb-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java_game_lib/lwjgl-3.1.1/lwjgl-lmdb/lwjgl-lmdb-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java_game_lib/lwjgl-3.1.1/lwjgl-lmdb/lwjgl-lmdb-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java_game_lib/lwjgl-3.1.1/lwjgl-lmdb/lwjgl-lmdb.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

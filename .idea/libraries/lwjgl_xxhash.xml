@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lwjgl-xxhash">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/java_game_lib/lwjgl-3.1.1/lwjgl-xxhash/lwjgl-xxhash-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java_game_lib/lwjgl-3.1.1/lwjgl-xxhash/lwjgl-xxhash-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java_game_lib/lwjgl-3.1.1/lwjgl-xxhash/lwjgl-xxhash.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java_game_lib/lwjgl-3.1.1/lwjgl-xxhash/lwjgl-xxhash-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java_game_lib/lwjgl-3.1.1/lwjgl-xxhash/lwjgl-xxhash-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java_game_lib/lwjgl-3.1.1/lwjgl-xxhash/lwjgl-xxhash-natives-windows.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

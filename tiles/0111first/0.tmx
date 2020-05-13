@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="2018.04.18" orientation="orthogonal" renderorder="right-down" width="15" height="9" tilewidth="64" tileheight="64" infinite="0" nextobjectid="1">
+ <tileset firstgid="1" source="../tilesets/floor.tsx"/>
+ <layer name="Tile Layer 1" width="15" height="9">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACuNmZGDgpgJ+DMRPgPgVED8E4kdQMRD/KVQMm75HULknUPoZEn6IpPcRmj5kOwjZCxMD6UtlQIgh24usDt3ex1B92OxFV4dNDJ9/8dmLL5zx2UtsnMH8hAsDAOGtuTQcAgAA
+  </data>
+ </layer>
+</map>

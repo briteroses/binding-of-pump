@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/java_game_lib/slick/lib/jinput.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java_game_lib/slick/lib/tinylinepp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java_game_lib/slick/lib/jorbis-0.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java_game_lib/slick/lib/slick-examples.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java_game_lib/slick/lib/natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java_game_lib/slick/lib/ibxm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java_game_lib/slick/lib/slick.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java_game_lib/slick/lib/jogg-0.0.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java_game_lib/slick/lib/natives-mac.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java_game_lib/slick/lib/lwjgl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java_game_lib/slick/lib/lwjgl_util_applet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java_game_lib/slick/lib/lwjgl_util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java_game_lib/slick/lib/jnlp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/java_game_lib/slick/lib/natives-windows.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
