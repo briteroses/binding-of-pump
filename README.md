@@ -10,11 +10,13 @@ There are also blue bullets which only hurt you if you are moving; this is a fea
 Playing the game will likely also require you to install the Slick2D library on your own machine first;
 if that's a hassle, you can check out a gameplay demonstration here:
 https://www.youtube.com/watch?v=0Fqfn4jaR_w
+https://www.youtube.com/watch?v=xhDND8DG8P4
+https://www.youtube.com/watch?v=Rpd-_o3Nld0
+
+These three gameplay videos demonstrate how randomization of levels and items as well as diversity in item effects can create meaningful variations between each session of the game. The game design structure facilitates infinite replayability.
 
 
-
-Full item guide is below.
-Item list:
+Full item list:
  * 0 - Lump of Coal - spells increase in damage and size at further range
  * 1 - Proptosis - spells start with massive damage and decrease in damage and size at further range
  * 2 - Triple Shot
