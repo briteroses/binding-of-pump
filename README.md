@@ -8,12 +8,15 @@ There are a few gameplay mechanics not in the original game; mainly, I've added 
 holding down spacebar slows down player, enemy, and bullet movement, allowing for finer dodging and control, and depletes the "LP" energy meter.
 There are also blue bullets which only hurt you if you are moving; this is a feature taken from another video game Undertale.
 Playing the game will likely also require you to install the Slick2D library on your own machine first;
-if that's a hassle, you can check out a gameplay demonstration here:
+if that's a hassle, you can check out several gameplay demonstrations here:
+
 https://www.youtube.com/watch?v=0Fqfn4jaR_w
+
 https://www.youtube.com/watch?v=xhDND8DG8P4
+
 https://www.youtube.com/watch?v=Rpd-_o3Nld0
 
-These three gameplay videos demonstrate how randomization of levels and items as well as diversity in item effects can create meaningful variations between each session of the game. The game design structure facilitates infinite replayability.
+These gameplay videos demonstrate how randomization of levels and items as well as diversity in item effects can create meaningful variations between each session of the game. The game design structure facilitates infinite replayability.
 
 
 Full item list:
