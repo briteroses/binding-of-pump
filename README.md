@@ -1,6 +1,6 @@
 # binding-of-pump
 This is a recreation of video game Binding of Isaac in Java using the Slick2D engine.
-WASD to move, arrow keys to shoot
+WASD to move, arrow keys to shoot.
 Most core features of the original game are implemented, including procedural level generation.
 About ~140 items are implemented, most directly from the original game and some with new original effects.
 5 bosses are implemented, some with original designs not in the base game.
